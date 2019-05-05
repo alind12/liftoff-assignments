@@ -7,11 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The local bakery does not have a website. The plan is to create a website for the bakery. Allowing users to access the goods made by the bakery.
 ### Features
-Include Features here
+User Login - for returning frequent customers.
+Search - allows user to search for there favorite baked goods.
+Order form submition- allows user to submit orders to bakery.
 ### Technologies
-Include Technologies here
+Css
+MySQL
+Java
+SQLAchemy
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+There is always something to learn. I want my site to be interactive with visuals. Will have to learn to add images to page and access them. 
