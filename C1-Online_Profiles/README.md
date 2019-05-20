@@ -13,6 +13,5 @@ https://github.com/alind12
 www.linkedin.com/in/andrew-linder-858001150
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
+See Andrew linder Resume file.
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
